@@ -1,0 +1,19 @@
+#box1 {
+    width: 100px;
+    height: 100px;
+    border: solid black 2px;
+    background-color: green;
+    position: relative;
+}
+#box2 {
+    width: 100px;
+    height: 100px;
+    border: solid black 2px;
+    background-color: red;
+    position: relative;
+}
+#res {
+    font-family: sans-serif;
+    font-weight: bold;
+    color: green;
+}
